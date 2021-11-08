@@ -1,2 +1,2 @@
 # MyProjects
-Home to my current and finished projects.
+Home of my current and finished projects.
